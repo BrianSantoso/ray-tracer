@@ -36,7 +36,7 @@ window.onload = function(){
 	image = new Img(canvas.width,canvas.height);
 	
 	console.log("Initializing scene...");
-	scene = s0;
+	scene = s2;
 	scene.init();
 	
 	
